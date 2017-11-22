@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  FBXInporter.cpp
+     Creating library F:\SoloProjects\NDEProject\Release\FBXInporter.lib and object F:\SoloProjects\NDEProject\Release\FBXInporter.exp
+  Generating code
+  All 864 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FBXInporter.vcxproj -> F:\SoloProjects\NDEProject\Release\FBXInporter.dll

@@ -1,0 +1,29 @@
+#
+#
+#
+
+mtllib wall.mtl
+
+
+#
+#  Mesh Mesh Mesh Mesh
+#
+g  Mesh Mesh Mesh Mesh
+
+
+#
+#  Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh_ Mesh Mesh_ Mesh_CinderblockSloppy0005_1_S
+#
+usemtl  Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh_ Mesh Mesh_ Mesh_CinderblockSloppy0005_1_S
+
+v -18.793413 -0.296366 0.000000
+v 18.406559 -0.296366 0.000000
+v 18.406559 30.692558 0.000000
+v -18.793413 30.692558 0.000000
+vn 0.000000 0.000000 1.000000
+vt -0.500000 -0.500000
+vt 1.500000 -0.500000
+vt 1.500000 1.500000
+vt -0.500000 1.500000
+f 1/1/1 2/2/1 3/3/1
+f 1/1/1 3/3/1 4/4/1

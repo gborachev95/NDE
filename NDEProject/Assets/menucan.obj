@@ -1,0 +1,46 @@
+#
+#
+#
+
+mtllib menucan.mtl
+
+
+#
+#  Mesh Mesh Mesh Mesh Mesh Mesh Mesh
+#
+g  Mesh Mesh Mesh Mesh Mesh Mesh Mesh
+
+
+#
+#  Mesh Mesh Mesh Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh_ Mesh Mesh_ Mesh__lambert2
+#
+usemtl  Mesh Mesh Mesh Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh Mesh_ Mesh Mesh Mesh_ Mesh Mesh_ Mesh__lambert2
+
+v 66.300354 -71.537064 121.337585
+v 66.532578 61.936245 124.641296
+v -3.276626 -0.420586 -56.308434
+v 66.532578 61.936245 124.641296
+v -67.089172 62.134956 125.366211
+v -1.806329 -0.425051 -57.667824
+v -67.089172 62.134956 125.366211
+v -67.321449 -71.338348 122.062561
+v -1.806329 -0.425051 -57.667824
+v -67.321449 -71.338348 122.062561
+v 66.300354 -71.537064 121.337585
+v -1.806329 -0.425051 -57.667824
+vn -0.932100 -0.007342 0.362128
+vn 0.000348 -0.946216 0.323535
+vn 0.940746 -0.010027 0.338964
+vn 0.003380 0.929787 0.368083
+vt 6.660030 6.660030
+vt 6.660030 3.339970
+vt 9.980080 5.000000
+vt 3.339970 3.339970
+vt 5.000000 0.019920
+vt 3.339970 6.660030
+vt 0.019920 4.998990
+vt 5.000000 9.980080
+f 1/1/1 2/2/1 3/3/1
+f 4/2/2 5/4/2 6/5/2
+f 7/4/3 8/6/3 9/7/3
+f 10/6/4 11/1/4 12/8/4

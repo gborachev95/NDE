@@ -1,0 +1,83 @@
+﻿  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\ANIMATION_VS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\ANIMATION_VS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\INSTANCING_VS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\INSTANCING_VS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\OBJECT_PS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\OBJECT_PS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\OBJECT_PS_TARGET.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\OBJECT_PS_TARGET.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\OBJECT_VS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\OBJECT_VS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\OBJECT_VS_TARGET.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\OBJECT_VS_TARGET.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\PARTICLE_PS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\PARTICLE_PS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\PARTICLE_VS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\PARTICLE_VS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\POST_PROCESSING_PS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\POST_PROCESSING_PS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\POST_PROCESSING_VS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\POST_PROCESSING_VS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\UI_PS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\UI_PS.cso
+  compilation header save succeeded; see F:\SoloProjects\NDEProject\NDEProject\UI_VS.csh
+  compilation object save succeeded; see F:\SoloProjects\NDEProject\Release\UI_VS.cso
+  Animation.cpp
+  BaseItem.cpp
+  BaseObject.cpp
+  BaseState.cpp
+  BaseUI.cpp
+  BinaryReader.cpp
+  BlastGrenade.cpp
+  Blender.cpp
+  Button.cpp
+  Camera.cpp
+  ClientWrapper.cpp
+  Collision.cpp
+  CommonStates.cpp
+  DDSTextureLoader.cpp
+  AudioEngine.cpp
+  DynamicSoundEffectInstance.cpp
+  SoundCommon.cpp
+  SoundEffect.cpp
+  SoundEffectInstance.cpp
+  WaveBank.cpp
+  Compiling...
+  WaveBankReader.cpp
+  WAVFileReader.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  KeyItem.cpp
+  Light.cpp
+  Log.cpp
+  MagnetGranade.cpp
+  main.cpp
+  MenuState.cpp
+  Monster.cpp
+  Mouse.cpp
+  NetworkClient.cpp
+  NetworkLobbyState.cpp
+  NetworkPlatform.cpp
+  NetworkServer.cpp
+  ObjManager.cpp
+  Particle.cpp
+  pch.cpp
+  Compiling...
+  Physics.cpp
+  Player.cpp
+  PlayState.cpp
+  PocketSand.cpp
+  Quad.cpp
+  Runner.cpp
+  ServerWrapper.cpp
+  SoundManager.cpp
+  SpriteBatch.cpp
+  SpriteFont.cpp
+  Trap.cpp
+  VertexTypes.cpp
+  XTime.cpp
+  Generating code
+  All 5928 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NDEProject.vcxproj -> F:\SoloProjects\NDEProject\Release\NDEProject.exe

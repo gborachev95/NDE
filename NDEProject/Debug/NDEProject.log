@@ -1,0 +1,21 @@
+﻿  main.cpp
+  SoundManager.cpp
+  ServerWrapper.cpp
+  Runner.cpp
+  PlayState.cpp
+  Particle.cpp
+  ObjManager.cpp
+  NetworkServer.cpp
+  NetworkLobbyState.cpp
+  NetworkClient.cpp
+  MenuState.cpp
+  Light.cpp
+  Graphics.cpp
+  Game.cpp
+  ClientWrapper.cpp
+  Blender.cpp
+  BaseObject.cpp
+  BaseItem.cpp
+  Animation.cpp
+  Generating Code...
+  NDEProject.vcxproj -> F:\26.Game Project M1\NDE\NDEProject\Debug\NDEProject.exe

@@ -1,0 +1,35 @@
+Developers:
+Kurt Taratun 
+Georgi Borachev
+
+
+//************************************************************//
+To everybody who is playing our game.
+
+Near Death Experience can run only through lan connection and it can handle up to 4 players. 
+
+The host is always connected as the Monster and the other 3 players are the runners.
+
+If you would want to re-host, restart the whole game.
+//************************************************************//
+
+Main Controls:
+
+Enter - Start Round (only host can start the game)
+WASD - Movement
+Space - Jump
+Shift - Running
+Left Mouse Click - Pounce/Push
+Right Mouse Click - Swipe/Trip
+
+Extra controls:
+
+Changing camera to spec mode - D0
+Changing camera back to normal view - D9
+Swap Walking and Running - M
+Full Screen shortcut - F1
+
+
+//************************************************************//
+
+Thanks for trying it out. I hope you enjoyed it.(daveC ATZ)
